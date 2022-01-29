@@ -1,0 +1,2 @@
+# TRINIT_Digicrew_EC01
+TriNitk_hackathon
